@@ -21,8 +21,14 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/05ae487f905f4fd19767991bff8d7e26?sid=da9db7a4-1cdd-462e-bac6-8e8367961264" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/05ae487f905f4fd19767991bff8d7e26">
+      <p>Xcode - Wordle — Wordle.xcodeproj - 5 June 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/05ae487f905f4fd19767991bff8d7e26">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/05ae487f905f4fd19767991bff8d7e26-3104cf5e1afac769-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
