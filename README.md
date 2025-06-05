@@ -2,7 +2,7 @@
 
 Submitted by: **C. Alejandra Carreon**
 
-**Name of your app** is an app that simulates a guessing word game written on swift for IOS.
+**Wordle** is an app that simulates a guessing word game written on swift for IOS.
 
 Time spent: **4** hours spent in total
 
