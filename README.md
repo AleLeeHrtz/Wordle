@@ -32,7 +32,13 @@ The following **optional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Notes to self - Wordle Project CodePath iOS 101
+Exercise 4: Tried assigning closure to class instead of instance, fixed with cell.didSelectString = didSelectString
+Exercise 5: Worked fine, used didSelectString?(string) for safety
+Exercise 6: Called method on class instead of instance, fixed by calling on cell
+Exercise 7: Forgot to assign result of scaledBy, fixed with cell.transform = cell.transform.scaledBy(...)
+Exercise 9: Used UIColor without labels, fixed with labeled init and added .cgColor for borderColor
+
 
 ## License
 
